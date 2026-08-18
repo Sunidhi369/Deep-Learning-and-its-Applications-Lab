@@ -17,6 +17,7 @@ This repository contains the practical assignments completed as part of the Deep
 | 4 | [Regularization Techniques for Deep Learning](./Practical%204/Practical_4_Regularization_Techniques.ipynb) | Implement L1/L2 regularization and Dropout to reduce overfitting in housing price prediction; compare with baseline. |
 | 5 | [Hyperparameter Tuning and Model Optimization](./Practical%205/Practical_5_Hyperparameter_Tuning.ipynb) | Improve model performance by tuning learning rate, batch size, number of layers, and activation functions. |
 | 6 | [Handwritten Digit Recognition using CNN](./Practical%206/Practical_6_CNN_MNIST_Digit_Recognition.ipynb) | Design a CNN model to recognize handwritten digits using the MNIST dataset. |
+| 7 | [Dog Breed Classification using Transfer Learning](./Practical%207/Practical_7_Dog_Breed_Transfer_Learning.ipynb) | Classify dog breeds using pretrained MobileNetV2; fine-tune and evaluate accuracy. |
 
 ## Repository Structure
 ```
@@ -32,6 +33,8 @@ This repository contains the practical assignments completed as part of the Deep
 │   └── Practical_5_Hyperparameter_Tuning.ipynb
 ├── Practical 6/
 │   └── Practical_6_CNN_MNIST_Digit_Recognition.ipynb
+├── Practical 7/
+│   └── Practical_7_Dog_Breed_Transfer_Learning.ipynb
 └── README.md
 ```
 
