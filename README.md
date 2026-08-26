@@ -19,6 +19,7 @@ This repository contains the practical assignments completed as part of the Deep
 | 6 | [Handwritten Digit Recognition using CNN](./Practical%206/Practical_6_CNN_MNIST_Digit_Recognition.ipynb) | Design a CNN model to recognize handwritten digits using the MNIST dataset. |
 | 7 | [Dog Breed Classification using Transfer Learning](./Practical%207/Practical_7_Dog_Breed_Transfer_Learning.ipynb) | Classify dog breeds using pretrained MobileNetV2; fine-tune and evaluate accuracy. |
 | 8 | [Stock Market Prediction using Recurrent Neural Networks](./Practical%208/Practical_8_Stock_Prediction_LSTM.ipynb) | Predict NASDAQ stock price trends using an LSTM network; visualize predicted vs actual prices. |
+| 9 | [Slot Filling using Recurrent Neural Networks](./Practical%209/Practical_9_Slot_Filling_RNN.ipynb) | Sequence labeling on the ATIS dataset using a Bidirectional LSTM; evaluate token-level accuracy. |
 
 ## Repository Structure
 ```
@@ -38,6 +39,8 @@ This repository contains the practical assignments completed as part of the Deep
 │   └── Practical_7_Dog_Breed_Transfer_Learning.ipynb
 ├── Practical 8/
 │   └── Practical_8_Stock_Prediction_LSTM.ipynb
+├── Practical 9/
+│   └── Practical_9_Slot_Filling_RNN.ipynb
 └── README.md
 ```
 
