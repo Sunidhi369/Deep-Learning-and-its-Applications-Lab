@@ -21,6 +21,7 @@ This repository contains the practical assignments completed as part of the Deep
 | 8 | [Stock Market Prediction using Recurrent Neural Networks](./Practical%208/Practical_8_Stock_Prediction_LSTM.ipynb) | Predict NASDAQ stock price trends using an LSTM network; visualize predicted vs actual prices. |
 | 9 | [Slot Filling using Recurrent Neural Networks](./Practical%209/Practical_9_Slot_Filling_RNN.ipynb) | Sequence labeling on the ATIS dataset using a Bidirectional LSTM; evaluate token-level accuracy. |
 | 10 | [Credit Card Fraud Detection using Deep Learning](./Practical%2010/Practical_10_Credit_Card_Fraud_Detection.ipynb) | Detect fraudulent transactions with a DNN; handle class imbalance and evaluate precision, recall, F1-score. |
+| 11 | [Convolutional Autoencoder on MNIST Dataset](./Practical%2011/Practical_11_Convolutional_Autoencoder.ipynb) | Build a convolutional encoder-decoder to compress and reconstruct handwritten digit images. |
 
 ## Repository Structure
 ```
@@ -44,6 +45,8 @@ This repository contains the practical assignments completed as part of the Deep
 │   └── Practical_9_Slot_Filling_RNN.ipynb
 ├── Practical 10/
 │   └── Practical_10_Credit_Card_Fraud_Detection.ipynb
+├── Practical 11/
+│   └── Practical_11_Convolutional_Autoencoder.ipynb
 └── README.md
 ```
 
