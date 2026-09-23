@@ -22,6 +22,7 @@ This repository contains the practical assignments completed as part of the Deep
 | 9 | [Slot Filling using Recurrent Neural Networks](./Practical%209/Practical_9_Slot_Filling_RNN.ipynb) | Sequence labeling on the ATIS dataset using a Bidirectional LSTM; evaluate token-level accuracy. |
 | 10 | [Credit Card Fraud Detection using Deep Learning](./Practical%2010/Practical_10_Credit_Card_Fraud_Detection.ipynb) | Detect fraudulent transactions with a DNN; handle class imbalance and evaluate precision, recall, F1-score. |
 | 11 | [Convolutional Autoencoder on MNIST Dataset](./Practical%2011/Practical_11_Convolutional_Autoencoder.ipynb) | Build a convolutional encoder-decoder to compress and reconstruct handwritten digit images. |
+| 12 | [Generative Adversarial Network (GAN)](./Practical%2012/Practical_12_GAN_MNIST.ipynb) | Implement and adversarially train a Generator and Discriminator to synthesize handwritten digit images. |
 
 ## Repository Structure
 ```
@@ -47,6 +48,8 @@ This repository contains the practical assignments completed as part of the Deep
 │   └── Practical_10_Credit_Card_Fraud_Detection.ipynb
 ├── Practical 11/
 │   └── Practical_11_Convolutional_Autoencoder.ipynb
+├── Practical 12/
+│   └── Practical_12_GAN_MNIST.ipynb
 └── README.md
 ```
 
